@@ -16,7 +16,3 @@ https://yutaroogawa.github.io/pytorch_tutorials_jp/
 
 3-(AI基本) Udemy
 
-【E資格の前に】PyTorchで学ぶディープラーニング実装
-https://www.udemy.com/course/avilen-e-pytorch/
-
-今日、明日は安いようです。
