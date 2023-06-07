@@ -1,5 +1,9 @@
 ## AI Getting Started
 
+AIを始めるに当たり、まずはPyTorchを使って、機械学習の基礎を学ぶ。
+教科書は、
+
+
 教科書：PyTorchチュートリアル（日本語翻訳版）https://yutaroogawa.github.io/pytorch_tutorials_jp/
 
 
@@ -25,28 +29,28 @@ https://www.kaggle.com/datasets
 
 ### 作成中・・・
 
-| No. | 問題/問題名            | model 説明                                                                    |
-| :-- | :--------------------- | :---------------------------------------------------------------------------- |
-| 1   | 名称予測/IRIS          | MLP 分類問題：https://www.kaggle.com/datasets/aashimaaa/irisdataset           |
-| 2_0 | 数字認識・分類/MNIST   | MLP 文字の分類:0～9までの手書き数字画像                                       |
-| 2_1 | 画像分類/Fashion MNIST | CNN 画像の分類：10種類の「**ファッション商品**」写真の画像データセット7万枚。 |
-| 2_2 | 画像分類/Fashion MNIST | CNN AlexNet                                                                   |
-| 3   | 顔認識/Labeled Faces   | Face Recognition Dataset                                                      |
-| 4   | 画像認識/CIFAR10       | CNN                                                                           |
-| 5   | [チューニング手法]     | ハイパーパラメータ、モデルのチューニング                                      |
-| 6   | 株価予測/Stock         | RNN                                                                           |
-| 7   | 感情分析               | テキスト分類                                                                  |
-| 8   | [構築済みモデルの利用] | Resnet18 iPhoneのnn                                                           |
-| 9   | word2vector            | tokenizer                                                                     |
-| 11  | LSTM                   | LSTM 超短期記憶                                                               |
-| 12  | seq2seq                | transformer                                                                   |
-| 13  | self-attention         | multi-head attention                                                          |
-| 14  | 学習済BERT             | 学習済BERT                                                                    |
-| 15  | BERT                   | BERT                                                                          |
-| 16  | GPT-2                  | GPT-2                                                                         |
-| 17  | GPT-3                  | GPT-3                                                                         |
-| 18  | LLM  alpaca            | LLM  alpaca                                                                   |
-| 19  | LLM                    | LLM                                                                           |
+| No. | 問題/問題名            | model 説明                                                       |
+| :-- | :--------------------- |:---------------------------------------------------------------|
+| 1   | 名称予測/IRIS          | MLP 分類問題：https://www.kaggle.com/datasets/aashimaaa/irisdataset |
+| 2_0 | 数字認識・分類/MNIST   | MLP 文字の分類:0～9までの手書き数字画像                                        |
+| 2_1 | 画像分類/Fashion MNIST | CNN 画像の分類：10種類の「**ファッション商品**」写真の画像データセット7万枚。                   |
+| 2_2 | 画像分類/Fashion MNIST | CNN AlexNet 2012年全てはこれから始まった。                                  |
+| 3   | 顔認識/Labeled Faces   | Face Recognition Dataset                                       |
+| 4   | 画像認識/CIFAR10       | CNN                                                            |
+| 5   | [チューニング手法]     | ハイパーパラメータ、モデルのチューニング                                           |
+| 6   | 株価予測/Stock         | RNN                                                            |
+| 7   | 感情分析               | テキスト分類                                                         |
+| 8   | [構築済みモデルの利用] | Resnet18 iPhoneのnn                                             |
+| 9   | word2vector            | tokenizer                                                      |
+| 11  | LSTM                   | LSTM 超短期記憶                                                     |
+| 12  | seq2seq                | transformer                                                    |
+| 13  | self-attention         | multi-head attention                                           |
+| 14  | 学習済BERT             | 学習済BERT                                                        |
+| 15  | BERT                   | BERT                                                           |
+| 16  | GPT-2                  | GPT-2                                                          |
+| 17  | GPT-3                  | GPT-3                                                          |
+| 18  | LLM  alpaca            | LLM  alpaca                                                    |
+| 19  | LLM                    | LLM                                                            |
 
 
 # 1.1「学習済みVGGモデル」
