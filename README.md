@@ -13,6 +13,8 @@ AIを始めるに当たり、まずはPyTorchを使って、機械学習の基�
 参考書（２:Udemy）【E資格の前に】PyTorchで学ぶディープラーニング実装
  https://www.udemy.com/course/avilen-e-pytorch/
 
+基本：（３:Udemy）現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル
+https://www.udemy.com/course/python-beginner/
 
 #### 1-(IDE) PyCharm professional
 https://samuraism.com/2022/07/08/13654
