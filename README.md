@@ -44,7 +44,7 @@ https://www.kaggle.com/datasets
 | 7   | 感情分析               | テキスト分類                                                         |
 | 8   | [構築済みモデルの利用] | Resnet18 iPhoneのnn                                             |
 | 9   | word2vector            | tokenizer                                                      |
-| 11  | LSTM                   | LSTM 超短期記憶                                                     |
+| 11  | LSTM                   | LSTM 長短期記憶                                                     |
 | 12  | seq2seq                | transformer                                                    |
 | 13  | self-attention         | multi-head attention                                           |
 | 14  | 学習済BERT             | 学習済BERT                                                        |
