@@ -1,11 +1,34 @@
 ## メニュー
 
 
-| No. | Model    | Description                                                                                                                                                                                                        |
-| --- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | 回帰問題 | IRIS:"setosa"、"versicolor"、"virginica"と呼ばれる3種類の品種のアヤメがあります。<br />このアヤメの花冠（はなびら全体のこと）を表すデータとして、<br/>がく片（Sepal）、花弁（Petal）の<br />幅及び長さがあります。 |
-| 2   | RNN      | MNIST: 文字の分類                                                                                                                                                                                                  |
-| 3   | RNN      | MNIST: 文字の分類                                                                                                                                                                                                  |
+| No. | Model | Description                                                 |
+|-----|-------|-------------------------------------------------------------|
+| 1   | 回帰問題  | IRIS:"setosa"、"versicolor"、"virginica"と呼ばれる3種類の品種のアヤメの分類問題。 |
+| 2   | RNN   | MNIST: 文字の分類                                                |
+| 3   | RNN   | MNIST: 文字の分類                                                |
+
+入門:MLP
+MNIST
+EMNIST
+Fashion-MNIST
+CIFA10
+CIFA100
+
+定番：CNN,RNN
+AlexNet
+VGG16Net
+GoogleLeNet
+ResNet
+
+# 物体検出
+# R-CNN
+# YOLO
+'MC3_18_Weights', 'MViT', 'MViT_V1_B_Weights', 'MViT_V2_S_Weights',
+ 'R2Plus1D_18_Weights', 'R3D_18_Weights', 'S3D', 'S3D_Weights',
+ 'Swin3D_B_Weights', 'Swin3D_S_Weights', 'Swin3D_T_Weights',
+ 'SwinTransformer3d', 'VideoResNet'
+
+![](.0_Howto_images/70885231.png)
 
 ## XXXX 畳み込みニューラルネットワーク 画像分類プログラム
 
